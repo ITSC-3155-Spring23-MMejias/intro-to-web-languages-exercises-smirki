@@ -1,0 +1,15 @@
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #cc6060;
+  }
+  
+  #main-title {
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  .content {
+    margin-bottom: 12px;
+  }
+  
